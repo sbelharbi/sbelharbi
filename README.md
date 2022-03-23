@@ -1,4 +1,4 @@
-### Hi! 👋
+### Hi!
 My name is Soufiane. I am a postdoc at LIVIA lab., ETS, Montreal. I am working on training neural networks with weak supervision.
 <!--
 **sbelharbi/sbelharbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
