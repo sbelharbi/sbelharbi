@@ -8,6 +8,7 @@ Here are some repositories:
 - Deep weakly-supervised learning methods for classification and localization in histology images: a survey. <a href="https://arxiv.org/abs/1909.03354">[ArXiv]</a><a href="https://github.com/jeromerony/survey_wsl_histology">[Code]</a>
 - Convolutional STN for Weakly Supervised Object Localization and Beyond. <a href="https://arxiv.org/abs/1912.01522">[ArXiv]</a><a href="https://github.com/akhilpm/ConvSTN">[Code]</a>
 - Non-parametric Uni-modality Constraints for Deep Ordinal Classification. <a href="https://arxiv.org/abs/1911.10720">[ArXiv]</a><a href="https://github.com/sbelharbi/Deep-Ordinal-Classification-with-Inequality-Constraints">[Code]</a>
+- Holistic Guidance for Occluded Person Re-Identification. <a href="https://arxiv.org/abs/2104.06524">[ArXiv]</a><a href="https://github.com/madhukiranets/HolisitcGuidanceOccReID2">[Code]</a>
 
 
 <!--
