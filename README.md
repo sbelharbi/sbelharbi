@@ -1,11 +1,12 @@
 ### Hi!
 My name is Soufiane. I am a postdoc at LIVIA lab., ETS, Montreal. I am working on **training neural networks with weak supervision**.
 Here are some repositories:
-- [**Negative Evidence Matters in Interpretable Histology Image Classification**](https://arxiv.org/abs/2201.02445). <a href="https://arxiv.org/abs/2201.02445">[ArXiv]</a><a href="https://github.com/sbelharbi/negev">[Code]</a>
-- [**F-CAM: Full Resolution Class Activation Maps via Guided Parametric Upscaling**](https://arxiv.org/abs/2109.07069). <a href="https://arxiv.org/abs/2109.07069">[ArXiv]</a><a href="https://github.com/sbelharbi/fcam-wsol">[Code]</a>
-- [**Deep Interpretable Classification and Weakly-Supervised Segmentation of Histology Images via Max-Min Uncertainty**](https://arxiv.org/abs/2011.07221). <a href="https://arxiv.org/abs/2011.07221">[ArXiv]</a><a href="https://github.com/sbelharbi/deep-wsl-histo-min-max-uncertainty">[Code]</a>
-- [**Deep Active Learning for Joint Classification & Segmentation with Weak Annotator**](https://arxiv.org/abs/2010.04889). <a href="https://arxiv.org/abs/2010.04889">[ArXiv]</a><a href="https://github.com/sbelharbi/deep-active-learning-for-joint-classification-and-segmentation-with-weak-annotator">[Code]</a>
-- [**Deep weakly-supervised learning methods for classification and localization in histology images: a survey**](https://arxiv.org/abs/1909.03354). <a href="https://arxiv.org/abs/1909.03354">[ArXiv]</a><a href="https://github.com/jeromerony/survey_wsl_histology">[Code]</a>
+- Negative Evidence Matters in Interpretable Histology Image Classification, (https://arxiv.org/abs/2201.02445). <a href="https://arxiv.org/abs/2201.02445">[ArXiv]</a><a href="https://github.com/sbelharbi/negev">[Code]</a>
+- F-CAM: Full Resolution Class Activation Maps via Guided Parametric Upscaling(https://arxiv.org/abs/2109.07069). <a href="https://arxiv.org/abs/2109.07069">[ArXiv]</a><a href="https://github.com/sbelharbi/fcam-wsol">[Code]</a>
+- Deep Interpretable Classification and Weakly-Supervised Segmentation of Histology Images via Max-Min Uncertainty(https://arxiv.org/abs/2011.07221). <a href="https://arxiv.org/abs/2011.07221">[ArXiv]</a><a href="https://github.com/sbelharbi/deep-wsl-histo-min-max-uncertainty">[Code]</a>
+- Deep Active Learning for Joint Classification & Segmentation with Weak Annotator(https://arxiv.org/abs/2010.04889). <a href="https://arxiv.org/abs/2010.04889">[ArXiv]</a><a href="https://github.com/sbelharbi/deep-active-learning-for-joint-classification-and-segmentation-with-weak-annotator">[Code]</a>
+- Deep weakly-supervised learning methods for classification and localization in histology images: a survey(https://arxiv.org/abs/1909.03354). <a href="https://arxiv.org/abs/1909.03354">[ArXiv]</a><a href="https://github.com/jeromerony/survey_wsl_histology">[Code]</a>
+
 
 <!--
 **sbelharbi/sbelharbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
