@@ -1,6 +1,5 @@
 ### Hi!
 My name is Soufiane. I am a postdoc at LIVIA lab., ETS, Montreal. I am working on training neural networks with weak supervision.
-
 Here are some repositories:
 - [**Negative Evidence Matters in Interpretable Histology Image Classification**](https://arxiv.org/abs/2201.02445). <a href="https://arxiv.org/abs/2201.02445">[ArXiv]</a><a href="https://github.com/sbelharbi/negev">[Code]</a>
 - F-CAM: Full Resolution Class Activation Maps via Guided Parametric Upscaling. [ArXiv][Code]
