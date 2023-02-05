@@ -1,5 +1,6 @@
 ### Hi!
 Here is some relevant work:
+- Discriminative Sampling of Proposals in Self-Supervised Transformers for Weakly Supervised Object Localization. <a href="https://arxiv.org/abs/2209.09209">[ArXiv]</a><a href="https://github.com/shakeebmurtaza/dips">[Code]</a>
 - TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos. <a href="https://arxiv.org/abs/2208.14542">[ArXiv]</a><a href="https://github.com/sbelharbi/tcam-wsol-video">[Code]</a>
 - Negative Evidence Matters in Interpretable Histology Image Classification. <a href="https://arxiv.org/abs/2201.02445">[ArXiv]</a><a href="https://github.com/sbelharbi/negev">[Code]</a>
 - F-CAM: Full Resolution Class Activation Maps via Guided Parametric Upscaling. <a href="https://arxiv.org/abs/2109.07069">[ArXiv]</a><a href="https://github.com/sbelharbi/fcam-wsol">[Code]</a>
