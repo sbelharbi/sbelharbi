@@ -1,6 +1,6 @@
 ### Hi!
 Here is some relevant work:
-- Subject-Based Domain Adaptation for Facial Expression Recognition. <a href="https://arxiv.org/abs/2312.05632">[ArXiv]</a><a href="[https://github.com/sbelharbi/colo-cam](https://github.com/osamazeeshan/Subject-Based-Domain-Adaptation-for-FER)">[Code]</a>
+- Subject-Based Domain Adaptation for Facial Expression Recognition. <a href="https://arxiv.org/abs/2312.05632">[ArXiv]</a><a href="https://github.com/osamazeeshan/Subject-Based-Domain-Adaptation-for-FER">[Code]</a>
 - CoLo-CAM: Class Activation Mapping for Object Co-Localization in Weakly-Labeled Unconstrained Videos. <a href="https://arxiv.org/abs/2303.09044">[ArXiv]</a><a href="https://github.com/sbelharbi/colo-cam">[Code]</a>
 - Discriminative Sampling of Proposals in Self-Supervised Transformers for Weakly Supervised Object Localization. <a href="https://arxiv.org/abs/2209.09209">[ArXiv]</a><a href="https://github.com/shakeebmurtaza/dips">[Code]</a>
 - TCAM: Temporal Class Activation Maps for Object Localization in Weakly-Labeled Unconstrained Videos. <a href="https://arxiv.org/abs/2208.14542">[ArXiv]</a><a href="https://github.com/sbelharbi/tcam-wsol-video">[Code]</a>
