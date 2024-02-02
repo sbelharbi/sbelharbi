@@ -1,5 +1,7 @@
 ### Hi!
 Here is some relevant work:
+- Guided Interpretable Facial Expression Recognition via Spatial Action Unit Cues. <a href="https://arxiv.org/abs/2402.00281">[ArXiv]</a><a href="https://github.com/sbelharbi/interpretable-fer-aus">[Code]</a>
+- Distilling Privileged Multimodal Information for Expression Recognition using Optimal Transport. <a href="https://arxiv.org/abs/2401.15489">[ArXiv]</a><a href="https://github.com/haseebaslam95/PKDOT">[Code]</a>
 - Subject-Based Domain Adaptation for Facial Expression Recognition. <a href="https://arxiv.org/abs/2312.05632">[ArXiv]</a><a href="https://github.com/osamazeeshan/Subject-Based-Domain-Adaptation-for-FER">[Code]</a>
 - CoLo-CAM: Class Activation Mapping for Object Co-Localization in Weakly-Labeled Unconstrained Videos. <a href="https://arxiv.org/abs/2303.09044">[ArXiv]</a><a href="https://github.com/sbelharbi/colo-cam">[Code]</a>
 - Discriminative Sampling of Proposals in Self-Supervised Transformers for Weakly Supervised Object Localization. <a href="https://arxiv.org/abs/2209.09209">[ArXiv]</a><a href="https://github.com/shakeebmurtaza/dips">[Code]</a>
