@@ -1,5 +1,6 @@
 ### Hi!
 Here is some relevant work:
+- SR-CACO-2: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution. <a href="https://arxiv.org/abs/XXXX.XXXXX">[ArXiv SOON]</a><a href="https://github.com/sbelharbi/sr-caco-2">[Code]</a>
 - Guided Interpretable Facial Expression Recognition via Spatial Action Unit Cues. <a href="https://arxiv.org/abs/2402.00281">[ArXiv]</a><a href="https://github.com/sbelharbi/interpretable-fer-aus">[Code]</a>
 - Distilling Privileged Multimodal Information for Expression Recognition using Optimal Transport. <a href="https://arxiv.org/abs/2401.15489">[ArXiv]</a><a href="https://github.com/haseebaslam95/PKDOT">[Code]</a>
 - Subject-Based Domain Adaptation for Facial Expression Recognition. <a href="https://arxiv.org/abs/2312.05632">[ArXiv]</a><a href="https://github.com/osamazeeshan/Subject-Based-Domain-Adaptation-for-FER">[Code]</a>
