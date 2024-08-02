@@ -1,5 +1,7 @@
 ### Hi!
 Here is some relevant work:
+- Textualized and Feature-based Models for Compound Multimodal Emotion Recognition in the Wild. <a href="https://arxiv.org/pdf/2407.12927">[arXiv]</a><a href="https://github.com/nicolas-richet/feature-vs-text-compound-emotion">[Code text-based]</a><a href="https://github.com/sbelharbi/feature-vs-text-compound-emotion">[Code feature-based]</a>
+- Joint Multimodal Transformer for Dimensional Emotional Recognition in the Wild. <a href="https://arxiv.org/pdf/2403.10488">[arXiv]</a><a href="https://github.com/PoloWlg/Joint-Multimodal-Transformer-6th-ABAW">[Code]</a>
 - SR-CACO-2: A Dataset for Confocal Fluorescence Microscopy Image Super-Resolution. <a href="https://arxiv.org/pdf/2406.09168">[arXiv]</a><a href="https://github.com/sbelharbi/sr-caco-2">[Code]</a>
 - Guided Interpretable Facial Expression Recognition via Spatial Action Unit Cues. <a href="https://arxiv.org/pdf/2402.00281">[arXiv]</a><a href="https://github.com/sbelharbi/interpretable-fer-aus">[Code]</a>
 - Distilling Privileged Multimodal Information for Expression Recognition using Optimal Transport. <a href="https://arxiv.org/pdf/2401.15489">[arXiv]</a><a href="https://github.com/haseebaslam95/PKDOT">[Code]</a>
