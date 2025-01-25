@@ -1,5 +1,8 @@
 ### Hi!
+**NEW EVENT**: Jan. 2025: **New challenge is now open @ 8TH ABAW @ CVPR 2025**. [**Ambivalence/Hesitancy (AH) Recognition Challenge at 8th Workshop and Competition on Affective & Behavior Analysis in-the-wild (ABAW)**](https://affective-behavior-analysis-in-the-wild.github.io/8th/#counts3). <a href="https://affective-behavior-analysis-in-the-wild.github.io/8th/#counts3">[Page]</a>
+
 Here is some relevant work:
+- TeD-Loc: Text Distillation for Weakly Supervised Object Localization. <a href="https://arxiv.org/pdf/2501.12632">[arXiv]</a><a href="https://github.com/shakeebmurtaza/TeDLOC">[Code]</a>
 - A Realistic Protocol for Evaluation of Weakly Supervised Object Localization. <a href="https://arxiv.org/pdf/2404.10034">[arXiv]</a><a href="https://github.com/shakeebmurtaza/wsol_model_selection">[Code]</a>
 - Textualized and Feature-based Models for Compound Multimodal Emotion Recognition in the Wild. <a href="https://arxiv.org/pdf/2407.12927">[arXiv]</a><a href="https://github.com/nicolas-richet/feature-vs-text-compound-emotion">[Code text-based]</a><a href="https://github.com/sbelharbi/feature-vs-text-compound-emotion">[Code feature-based]</a>
 - Joint Multimodal Transformer for Dimensional Emotional Recognition in the Wild. <a href="https://arxiv.org/pdf/2403.10488">[arXiv]</a><a href="https://github.com/PoloWlg/Joint-Multimodal-Transformer-6th-ABAW">[Code]</a>
