@@ -1,5 +1,5 @@
 ### Hi!
-**New challenge is now open @ 8TH ABAW @ CVPR 2025**. [*Ambivalence/Hesitancy (AH) Recognition Challenge at 8th Workshop and Competition on Affective & Behavior Analysis in-the-wild (ABAW)*](https://affective-behavior-analysis-in-the-wild.github.io/8th/#counts3). [<a href="https://affective-behavior-analysis-in-the-wild.github.io/8th/#counts3">Page</a>][<a href="https://drive.google.com/file/d/1XpGBVp6TZnV3khbyP48SpIWmGnR8EbYU/view">Results</a>]
+**New challenge is now open @ 8TH ABAW @ CVPR 2025**. [*Ambivalence/Hesitancy (AH) Recognition Challenge at 8th Workshop and Competition on Affective & Behavior Analysis in-the-wild (ABAW)*](https://affective-behavior-analysis-in-the-wild.github.io/8th/#counts3). [<a href="https://affective-behavior-analysis-in-the-wild.github.io/8th/#counts3">Page</a>][<a href="https://drive.google.com/file/d/1XpGBVp6TZnV3khbyP48SpIWmGnR8EbYU/view">Results</a>][<a href="https://doi.org/10.6084/m9.figshare.28524563.v4">White paper</a>]
 
 Here is some relevant work:
 - *“PixelCAM: Pixel Class Activation Mapping for Histology Image Classification and ROI Localization”*. [<a href="https://arxiv.org/pdf/2503.24135">arXiv</a>][<a href="https://github.com/alexisguichemerrecode/pixelcam">Code</a>]
