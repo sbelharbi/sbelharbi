@@ -1,5 +1,4 @@
 ### Hi!
-**New challenge @ 8TH ABAW @ CVPR 2025**. [*Ambivalence/Hesitancy (AH) Recognition Challenge at 8th Workshop and Competition on Affective & Behavior Analysis in-the-wild (ABAW)*](https://affective-behavior-analysis-in-the-wild.github.io/8th/#counts3). [<a href="https://affective-behavior-analysis-in-the-wild.github.io/8th/#counts3">Page</a>][<a href="https://drive.google.com/file/d/1XpGBVp6TZnV3khbyP48SpIWmGnR8EbYU/view">Results</a>][<a href="https://doi.org/10.6084/m9.figshare.28524563.v4">White paper</a>]
 
 Here is some relevant work:
 - *“BAH Dataset for Ambivalence/Hesitancy Recognition in Videos for Behavioural Change”*. [<a href="https://arxiv.org/pdf/2505.19328">arXiv</a>][<a href="https://github.com/sbelharbi/bah-dataset">Code</a>][<a href="https://github.com/sbelharbi/bah-dataset?tab=readme-ov-file#-bah-dataset-download-">Dataset Download</a>][<a href="/bah-dataset">Page</a>]
